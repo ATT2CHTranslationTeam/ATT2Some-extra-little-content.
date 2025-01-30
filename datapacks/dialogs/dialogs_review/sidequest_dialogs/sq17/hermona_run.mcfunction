@@ -1,0 +1,15 @@
+#################################################################
+#Made by Adventquest											#
+#Use function to start the quest 								#
+
+
+tellraw @s[scores={LANGUAGE=2}] {"text":"【至关重要的紧急情况】","color":"dark_green"}
+
+function att2:sound/dialogs/simple
+#function att2:sound/misc/fail1
+#function att2:sound/misc/combo
+#tellraw @s[scores={LANGUAGE=2}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"","color":"dark_aqua"}]}
+#tellraw @s[scores={LANGUAGE=2}] {"text":"任务失败","color":"dark_red"}
+tellraw @s[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":":"},{"text":"[乐意效劳，我会看看我能帮你做些什么的！-->]","color":"green","clickEvent":{"action":"run_command","value":"/function att2:dialogs/dialogs_review/sidequest_dialogs/sq17/hermona1"},"hoverEvent":{"action":"show_text","value":"点击这里—回答1"}}]}
+tellraw @s[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":":"},{"text":"[很抱歉我帮不了你，我还有更加紧急的任务！-->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:dialogs/dialogs_review/sidequest_dialogs/sq17/hermona2"},"hoverEvent":{"action":"show_text","value":"点击这里—回答2"}}]}
+tellraw @s[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":":"},{"text":"[我可不会白白干活。-->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:dialogs/dialogs_review/sidequest_dialogs/sq17/hermona3"},"hoverEvent":{"action":"show_text","value":"点击这里—回答3"}}]}
