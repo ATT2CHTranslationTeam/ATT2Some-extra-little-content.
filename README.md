@@ -1,4 +1,5 @@
 【The following content is translated by AI】
+Please select the Code option to read.
 I'm sorry, my English isn't very good.
 These are merely some copied files of the Simplified Chinese version.
 Due to my busy schedule with personal errands recently, I haven't added detailed English comments in the code yet
