@@ -16,22 +16,31 @@ It can deal random damage to nearby enemies. Of course, it's not truly random. I
 【4】Rune Recycling spell.
 It can transform the runes on the ground into runes and experience of the corresponding level.
 【5】High-quality equipment refresh notification in the shop.
-When players use the forced refresh near the blacksmith/arrow merchant, and if high-quality equipment appears, players will receive an audio cue.
+When players use the forced refresh near the blacksmith/arrow merchant,
+and if high-quality equipment appears, players will receive an audio cue.
 【6】View tips content.
 Players can view the tips content in the "Consciousness" book. 
-The method of refreshing a tip every once in a while is great, but inevitably, many contents appear very rarely or even not at all. 
+The method of refreshing a tip every once in a while is great, but inevitably,
+many contents appear very rarely or even not at all. 
 Therefore, I have added an option in the "Consciousness" book to allow players to view the tips content. 
 Due to the sheer volume of content, I have only performed a simple categorization and created it in Chinese only.
 If you are interested, you can organize it using your own approach.
 【Suggestions for balancing game adjustments.】
 【Spell damage】
-Since the nerf of spell damage and the reduction of Dahal's mana regeneration after version 4.0.0, I think damage spells are really weak.
-The damage has been reduced by more than half compared to before. For example, in version 4.0.0, the full-level power ray only did 250 points of damage.
+Since the nerf of spell damage and the reduction of Dahal's mana regeneration after version 4.0.0,
+I think damage spells are really weak.
+The damage has been reduced by more than half compared to before. For example, in version 4.0.0, 
+the full-level power ray only did 250 points of damage.
 I don't know what the use of the power ray is when mana regeneration is weakened. 
 Even though it was adjusted to 350 points of damage in the latest update, I still think it's very, very weak.
-Before 4.0.0, I could quickly farm the Tournament with the power ray. But after version 4.0.0, I can only brawl with monsters using the fallen spell along with resistance five, which is a very torturous process. 
-Do you know how much damage a 350-damage beam does to a monster with 500 HP, wearing full set four protection and resistance two?——It's only 42. To kill such a monster with the Tournament, it would take 12 casts and as much as one minute.
-I just want to say that spell damage needs to be buffed, and it would be best if the mana regeneration limit could be increased, for example, 30 points of mana regeneration per second to fully recover.
+Before 4.0.0, I could quickly farm the Tournament with the power ray. But after version 4.0.0,
+I can only brawl with monsters using the fallen spell along with resistance five, which is a very torturous process. 
+Do you know how much damage a 350-damage beam does to a monster with 500 HP,
+wearing full set four protection and resistance two?——It's only 42. 
+To kill such a monster with the Tournament, it would take 12 casts and as much as one minute.
+I just want to say that spell damage needs to be buffed, 
+and it would be best if the mana regeneration limit could be increased, 
+for example, 30 points of mana regeneration per second to fully recover.
 【mythical equipment】
 The nerf of spell damage in version 4.0.0 also indirectly weakened the area damage of some mythical weapons. 
 Honestly, during my numerous playthroughs, I've only really used Fenrir and Rukyrion. 
@@ -39,7 +48,8 @@ The other mythical equipment either has useless effects or consumes too much man
 Between mythical and legendary weapons, I often choose legendary ones with attribute points addition.
 Overall, the stats of mythical equipment need to be buffed as they are indeed very weak.
 I think it's heartbreaking that a mythical equipment obtained with so much effort from side quests can only end up collecting dust in the warehouse. 
-Personally, I upgrade mythical equipment through runes, improving aspects such as base damage, enchantment, special effects, damage value,attribute points, and mana consumption.
+Personally, I upgrade mythical equipment through runes, 
+improving aspects such as base damage, enchantment, special effects, damage value,attribute points, and mana consumption.
 For example, I added random damage to the effect ofKinuil to make it more useful, and its upgrade requires these runes：
 LORD SONG BURN YOUR SOUL
 Lya Org Kinuil Ra Da
