@@ -15,6 +15,8 @@ Players can check the current blacksmith experience progress when talking with t
 It can deal random damage to nearby enemies. Of course, it's not truly random. I just divided it into 11 different damages and randomly selected among them.
 【4】Rune Recycling spell.
 It can transform the runes on the ground into runes and experience of the corresponding level.
+The way to create this spell:
+Ra+Ust+Recycling+spell+Nym+Ehl
 【5】High-quality equipment refresh notification in the shop.
 When players use the forced refresh near the blacksmith/arrow merchant,
 and if high-quality equipment appears, players will receive an audio cue.
